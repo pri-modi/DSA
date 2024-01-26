@@ -1,2 +1,2 @@
 # DSA
-dsa in Python and C++
+DSA in Python and C++
